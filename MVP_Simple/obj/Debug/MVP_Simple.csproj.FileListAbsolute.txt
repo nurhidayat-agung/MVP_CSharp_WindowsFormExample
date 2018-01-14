@@ -1,0 +1,9 @@
+c:\users\nurhidayat\documents\visual studio 2015\Projects\MVP_Simple\MVP_Simple\bin\Debug\MVP_Simple.exe.config
+c:\users\nurhidayat\documents\visual studio 2015\Projects\MVP_Simple\MVP_Simple\bin\Debug\MVP_Simple.exe
+c:\users\nurhidayat\documents\visual studio 2015\Projects\MVP_Simple\MVP_Simple\bin\Debug\MVP_Simple.pdb
+c:\users\nurhidayat\documents\visual studio 2015\Projects\MVP_Simple\MVP_Simple\obj\Debug\MVP_Simple.csprojResolveAssemblyReference.cache
+c:\users\nurhidayat\documents\visual studio 2015\Projects\MVP_Simple\MVP_Simple\obj\Debug\MVP_Simple.Properties.Resources.resources
+c:\users\nurhidayat\documents\visual studio 2015\Projects\MVP_Simple\MVP_Simple\obj\Debug\MVP_Simple.csproj.GenerateResource.Cache
+c:\users\nurhidayat\documents\visual studio 2015\Projects\MVP_Simple\MVP_Simple\obj\Debug\MVP_Simple.exe
+c:\users\nurhidayat\documents\visual studio 2015\Projects\MVP_Simple\MVP_Simple\obj\Debug\MVP_Simple.pdb
+c:\users\nurhidayat\documents\visual studio 2015\Projects\MVP_Simple\MVP_Simple\obj\Debug\MVP_Simple.Form1.resources
